@@ -1,14 +1,12 @@
 {
-	"name": "msbeden/seotitan",
+    "name": "msbeden/seotitan",
 	"type": "library",
 	"description": "Titan2 framework için yazılmış olan seo fonksiyonlarını içerir",
 	"keywords": ["titan 2","mvc","mini","seotitan"],
 	"homepage": "https://github.com/msbeden/seotitan",
-	"license": "MIT",
-	"version": "1.0",
-	"minimum-stability": "dev",
-	"prefer-stable": true,
-	"authors": [
+    "minimum-stability":"dev",
+    "license": "MIT",
+    "authors": [
         {
             "name": "Mehmet Şaban BEDEN",
             "email": "msbeden@gmail.com",
