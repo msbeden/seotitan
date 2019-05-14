@@ -1,0 +1,31 @@
+{
+	"name": "msbeden/seotitan",
+	"type": "library",
+	"description": "Titan2 framework için yazılmış olan seo fonksiyonlarını içerir",
+	"keywords": ["titan 2","mvc","mini","seotitan"],
+	"homepage": "https://github.com/msbeden/seotitan",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Mehmet Şaban BEDEN",
+            "email": "msbeden@gmail.com",
+            "homepage": "http://msbeden.com",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+        "php": ">=7.0.0",
+		"filp/whoops": "^2.1",
+		"windwalker/edge": "3.4.7",
+		"phpmailer/phpmailer": "~6.0"
+    },
+	"autoload": {
+		"psr-4": {
+			"App\\": "App",
+			"System\\": "System"
+		}
+	},
+	"config": {
+		"preferred-install": "dist"
+	}
+}
