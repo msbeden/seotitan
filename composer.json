@@ -5,6 +5,7 @@
 	"keywords": ["titan 2","mvc","mini","seotitan"],
 	"homepage": "https://github.com/msbeden/seotitan",
 	"license": "MIT",
+	"version": "1.0",
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"authors": [
