@@ -5,6 +5,7 @@
 	"keywords": ["titan 2","mvc","mini","seotitan"],
 	"homepage": "https://github.com/msbeden/seotitan",
 	"license": "MIT",
+	"minimum-stability": "dev",
 	"authors": [
         {
             "name": "Mehmet Şaban BEDEN",
