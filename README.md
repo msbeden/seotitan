@@ -5,9 +5,7 @@ SeoTitan
 Titan2 framework için yazılmış olan seo fonksiyonlarını içerir
 
 # Kurulum
-```sh
-$ composer require msbeden/seotitan
-```
+İndirilen dosyaların titan2 dizinine kopyalanması gerekir.
 
 # Dokümantasyon
 http://www.msbeden.com/makale/seotitan 
