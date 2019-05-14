@@ -16,5 +16,5 @@
     ],
     "require": {
         "msbeden/seotitan": "dev-master"
-    },
+    }
 }
